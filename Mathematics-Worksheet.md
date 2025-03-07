@@ -127,7 +127,7 @@
 114. Identify the **3D shape** that looks like an **ice-cream cone**.  
 115. If a triangle has angles **40° and 60°**, what is the measure of the third angle?  
  
-## **7. Measurement*  
+## **7. Measurement**  
 116. Convert **4 km** into meters.  
 117. What is **250 cm** in meters?  
 118. If a rope is **5.75 meters** long, how many **centimeters** is it?  
