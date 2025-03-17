@@ -64,17 +64,8 @@ Finally, the five-digit division section presents these 30 problems: 71. 12345 Ã
 
 ### 1. Roman Numerals
 
-#### Main Symbols
-
-| Symbol | Value  |
-|:-----:|:------:|
-| I     | 1      |
-| V     | 5      |
-| X     | 10     |
-| L     | 50     |
-| C     | 100    |
-| D     | 500    |
-| M     | 1000   |
+#### **Symbols and Their Values:**  
+- I = 1, V = 5, X = 10, L = 50, C = 100, D = 500, M = 1000
 
 #### Rules
 
