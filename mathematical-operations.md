@@ -84,40 +84,23 @@ Finally, the five-digit division section presents these 30 problems: 71. 12345 Ã
 4. **No More Than Three**  
    - Do not use I, X, C, or M more than 3 times in a row.
 
-### 2. Indian & International Place Value
+#### Common Examples
 
-#### Indian Place Value System
-
-| Place         | Value    | Digit Position (Right to Left) |
-|:-------------:|:-------:|:------------------------------:|
-| Ones          | 1       | 1st                            |
-| Tens          | 10      | 2nd                            |
-| Hundreds      | 100     | 3rd                            |
-| Thousands     | 1,000   | 4th                            |
-| Ten Thousands | 10,000  | 5th                            |
-| Lakhs         | 1,00,000| 6th                            |
-| Ten Lakhs     |10,00,000| 7th                            |
-| Crores        |1,00,00,000|8th                           |
-| Ten Crores    |10,00,00,000|9th                          |
-
-- **Example**: 23,45,678 is read as **Twenty-three lakh forty-five thousand six hundred seventy-eight**.
-
-#### International Place Value System
-
-| Place             | Value      | Digit Position (Right to Left) |
-|:-----------------:|:---------:|:------------------------------:|
-| Ones              | 1         | 1st                            |
-| Tens              | 10        | 2nd                            |
-| Hundreds          | 100       | 3rd                            |
-| Thousands         | 1,000     | 4th                            |
-| Ten Thousands     | 10,000    | 5th                            |
-| Hundred Thousands | 100,000   | 6th                            |
-| Millions          | 1,000,000 | 7th                            |
-| Ten Millions      |10,000,000 | 8th                            |
-| Hundred Millions  |100,000,000| 9th                            |
-
-- **Example**: 2,345,678 is read as **Two million three hundred forty-five thousand six hundred seventy-eight**.
-
-**Key Difference**  
-- **Indian**: digits are grouped **3,2,2** from the right (e.g., 23,45,678).  
-- **International**: digits are grouped in **threes** (e.g., 2,345,678).
+- **I** = 1  
+- **II** = 2  
+- **III** = 3  
+- **IV** = 4  
+- **V** = 5  
+- **VI** = 6  
+- **VII** = 7  
+- **VIII** = 8  
+- **IX** = 9  
+- **X** = 10  
+- **XL** = 40  
+- **L** = 50  
+- **XC** = 90  
+- **C** = 100  
+- **CD** = 400  
+- **D** = 500  
+- **CM** = 900  
+- **M** = 1000  
