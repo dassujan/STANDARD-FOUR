@@ -53,3 +53,80 @@ This sub-section includes 30 four-digit division problems: 41. 1200 ÷ 10 = ____
 
 *Five-Digit Division (30 Questions):*  
 Finally, the five-digit division section presents these 30 problems: 71. 12345 ÷ 5 = _____; 72. 23456 ÷ 6 = _____; 73. 34567 ÷ 7 = _____; 74. 45678 ÷ 8 = _____; 75. 56789 ÷ 9 = _____; 76. 67890 ÷ 10 = _____; 77. 78901 ÷ 11 = _____; 78. 89012 ÷ 2 = _____; 79. 90123 ÷ 3 = _____; 80. 81234 ÷ 4 = _____; 81. 72345 ÷ 5 = _____; 82. 63456 ÷ 6 = _____; 83. 54567 ÷ 7 = _____; 84. 45678 ÷ 8 = _____; 85. 36789 ÷ 9 = _____; 86. 27890 ÷ 10 = _____; 87. 18901 ÷ 11 = _____; 88. 99012 ÷ 2 = _____; 89. 88123 ÷ 3 = _____; 90. 77234 ÷ 4 = _____; 91. 66345 ÷ 5 = _____; 92. 55456 ÷ 6 = _____; 93. 44567 ÷ 7 = _____; 94. 33678 ÷ 8 = _____; 95. 22789 ÷ 9 = _____; 96. 11890 ÷ 10 = _____; 97. 99999 ÷ 11 = _____; 98. 88888 ÷ 2 = _____; 99. 77777 ÷ 3 = _____; and 100. 66666 ÷ 4 = _____.
+
+
+
+
+
+
+
+## **Consolidated Notes**
+
+### 1. Roman Numerals
+
+#### Main Symbols
+
+| Symbol | Value  |
+|:-----:|:------:|
+| I     | 1      |
+| V     | 5      |
+| X     | 10     |
+| L     | 50     |
+| C     | 100    |
+| D     | 500    |
+| M     | 1000   |
+
+#### Rules
+
+1. **Repetition**  
+   - I, X, C, and M can repeat **up to 3 times** (III = 3, XXX = 30, CCC = 300, MMM = 3000).  
+   - V, L, and D **cannot** repeat.
+
+2. **Addition**  
+   - If a smaller numeral is on the **right** of a larger one, **add**.  
+     - Example: VI = 5 + 1 = 6.
+
+3. **Subtraction**  
+   - If a smaller numeral is on the **left** of a larger one, **subtract**.  
+     - Example: IV = 5 − 1 = 4, IX = 10 − 1 = 9.
+
+4. **No More Than Three**  
+   - Do not use I, X, C, or M more than 3 times in a row.
+
+### 2. Indian & International Place Value
+
+#### Indian Place Value System
+
+| Place         | Value    | Digit Position (Right to Left) |
+|:-------------:|:-------:|:------------------------------:|
+| Ones          | 1       | 1st                            |
+| Tens          | 10      | 2nd                            |
+| Hundreds      | 100     | 3rd                            |
+| Thousands     | 1,000   | 4th                            |
+| Ten Thousands | 10,000  | 5th                            |
+| Lakhs         | 1,00,000| 6th                            |
+| Ten Lakhs     |10,00,000| 7th                            |
+| Crores        |1,00,00,000|8th                           |
+| Ten Crores    |10,00,00,000|9th                          |
+
+- **Example**: 23,45,678 is read as **Twenty-three lakh forty-five thousand six hundred seventy-eight**.
+
+#### International Place Value System
+
+| Place             | Value      | Digit Position (Right to Left) |
+|:-----------------:|:---------:|:------------------------------:|
+| Ones              | 1         | 1st                            |
+| Tens              | 10        | 2nd                            |
+| Hundreds          | 100       | 3rd                            |
+| Thousands         | 1,000     | 4th                            |
+| Ten Thousands     | 10,000    | 5th                            |
+| Hundred Thousands | 100,000   | 6th                            |
+| Millions          | 1,000,000 | 7th                            |
+| Ten Millions      |10,000,000 | 8th                            |
+| Hundred Millions  |100,000,000| 9th                            |
+
+- **Example**: 2,345,678 is read as **Two million three hundred forty-five thousand six hundred seventy-eight**.
+
+**Key Difference**  
+- **Indian**: digits are grouped **3,2,2** from the right (e.g., 23,45,678).  
+- **International**: digits are grouped in **threes** (e.g., 2,345,678).
