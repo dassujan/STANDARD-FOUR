@@ -5,55 +5,72 @@
 1. Frantically  
 **Meaning:** In a very hurried and worried way.  
 **Sentence:** When the kitten got lost, it ran frantically around the garden.
-2. Sternly  
+
+3. Sternly  
 **Meaning:** In a very serious and strict way.  
 **Sentence:** The teacher spoke sternly when the students were too noisy in class.
-3. Squabbling  
+
+5. Squabbling  
 **Meaning:** Arguing in a petty or noisy way.  
 **Sentence:** The two friends started squabbling over who should play with the new toy.
-4. Pleaded  
+
+6. Pleaded  
 **Meaning:** Asked very earnestly or desperately.  
 **Sentence:** He pleaded with his mother to let him have an extra scoop of ice cream.
-5. Fury  
+
+7. Fury  
 **Meaning:** Intense and violent anger.  
 **Sentence:** The storm hit the town with the fury of a wild animal.
-6. Admired  
+
+8. Admired  
 **Meaning:** Looked up to with respect or approval.  
 **Sentence:** The boy admired the kind lady who helped him cross the road.
-7. Puddle  
+
+9. Puddle  
 **Meaning:** A small pool of water on the ground.  
 **Sentence:** After a light rain, a tiny puddle formed on the playground.
-8. Scold  
+
+10. Scold  
 **Meaning:** To speak angrily to someone for doing something wrong.  
 **Sentence:** The teacher had to scold the student for not listening during the lesson.
-9. Dab  
+
+11. Dab  
 **Meaning:** To gently touch or apply something lightly.  
 **Sentence:** She used a soft cloth to dab a little water on her face when it was hot.
-10. Stains  
+
+12. Stains  
 **Meaning:** Spots or marks that make something look dirty.  
 **Sentence:** A few stains appeared on his shirt after he spilled his juice.
-11. Quarrel  
+
+13. Quarrel  
 **Meaning:** A small fight or argument.  
 **Sentence:** The two neighbors had a quarrel over the noisy music, but they soon made peace.
-12. Weep  
+
+14. Weep  
 **Meaning:** To cry softly.  
 **Sentence:** The little girl began to weep when she lost her favorite toy.
-13. Reconcile  
+
+15. Reconcile  
 **Meaning:** To become friends again after a disagreement.  
 **Sentence:** After a long talk, the two friends decided to reconcile and share their toys.
-14. Forgive  
+
+16. Forgive  
 **Meaning:** To stop feeling angry at someone after they have done something wrong.  
 **Sentence:** He chose to forgive his classmate after she accidentally knocked over his block tower.
-15. Defend  
+
+17. Defend  
 **Meaning:** To stand up for or support someone who is being treated unfairly.  
 **Sentence:** When someone teased his friend, he spoke up to defend her.
-16. Muddy  
+
+18. Muddy  
 **Meaning:** Covered with mud.  
 **Sentence:** The puppy came inside with its paws muddy after playing in the garden.
-17. Plumped  
+
+19. Plumped  
 **Meaning:** To put something down heavily or suddenly.  
 **Sentence:** He plumped his bag on the floor as soon as he reached home from school.
-18. Apologize  
+
+20. Apologize  
 **Meaning:** To say sorry when you have made a mistake.  
 **Sentence:** He decided to apologize to his friend for bumping into her during playtime.
 
