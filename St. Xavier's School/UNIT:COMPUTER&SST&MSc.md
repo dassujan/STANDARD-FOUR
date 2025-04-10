@@ -173,3 +173,6 @@
 52. **What can happen if we do not take care of public places like parks and roads? (3 marks)**  
 53. **Explain how good habits at home and outside help prevent the spread of diseases. (4 marks)**  
 54. **Describe the mutual relationship between citizens and the government in terms of maintaining society. (5 marks)**  
+
+# Moral Science: Laughter Is the Best Medicine (Unit) Practice Questions
+
