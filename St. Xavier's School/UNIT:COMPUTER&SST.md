@@ -235,3 +235,92 @@ These devices help store data for a longer time and transfer data between comput
 68. How do external storage devices contribute to data backup and recovery? (3 marks)
 69. In what way do external storage devices help in transferring data between computers? (2 marks)
 70. Summarize the importance of using both internal and external storage devices in a computer system. (5 marks)
+
+# Social Studies: A Good Citizen (unit) Practice Questions
+
+## Section 1: Civics and Its Importance
+
+1. **Define civics. (1 mark)**  
+2. **What are the responsibilities of a government as explained in civics? (2 marks)**  
+3. **What are the rights and duties of the people as taught by civics? (2 marks)**  
+4. **How does studying civics help us understand our role in society? (3 marks)**  
+5. **Explain the importance of studying civics. (4 marks)**  
+
+## Section 2: Understanding Citizenship
+
+6. **What is a citizen? (1 mark)**  
+7. **Explain the term "citizenship by birth." (2 marks)**  
+8. **Can a citizen live in a country other than the one in which they were born? (2 marks)**  
+9. **Describe what a person must do if they wish to change their citizenship. (3 marks)**  
+10. **Why is it important to understand the concept of a citizen? (4 marks)**  
+
+## Section 3: Civic Sense
+
+11. **What is civic sense? (1 mark)**  
+12. **Break down the meaning of the word “civic sense” into its two components. (3 marks)**  
+13. **How does having civic sense benefit our community? (3 marks)**  
+14. **Provide two examples of how to show civic sense in daily life. (4 marks)**  
+15. **Why is it important to maintain civic sense in a town or city? (5 marks)**  
+
+## Section 4: Being a Good Neighbour
+
+16. **Define a good neighbour. (1 mark)**  
+17. **List two qualities of a good neighbour. (2 marks)**  
+18. **How do good neighbours help each other in times of need? (3 marks)**  
+19. **Why is cooperation among neighbours important for building a community? (4 marks)**  
+20. **Explain how being a good neighbour can contribute to being a good citizen. (5 marks)**  
+
+## Section 5: Being a Good Citizen
+
+21. **What are the qualities of a good citizen? (1 mark)**  
+22. **How does respecting national symbols reflect being a good citizen? (2 marks)**  
+23. **Why is it important for citizens to obey the rules? (2 marks)**  
+24. **How does voting contribute to being a good citizen? (3 marks)**  
+25. **Describe three responsibilities of a good citizen. (4 marks)**  
+
+## Section 6: Responsibility, Rules, and Duties
+
+26. **What does the term “responsibility” mean? (1 mark)**  
+27. **Why should we follow rules in our community? (2 marks)**  
+28. **How can paying taxes on time benefit society? (3 marks)**  
+29. **Explain the importance of protecting the environment as a citizen. (4 marks)**  
+30. **Provide a complete explanation of why citizens must respect public property. (5 marks)**  
+
+## Section 7: Everyday Actions of a Good Citizen
+
+31. **What should you do with rubbish to be responsible? (1 mark)**  
+32. **Why should rubbish be thrown into a dustbin? (2 marks)**  
+33. **What is the proper way to write on paper according to the lesson? (2 marks)**  
+34. **Explain how simple actions like proper disposal of garbage can help the government in managing cities. (3 marks)**  
+35. **Discuss the significance of wearing a seat belt while going in a car. (4 marks)**  
+
+## Section 8: Participation in Elections
+
+36. **What is the process of choosing leaders through voting called? (1 mark)**  
+37. **Who has the right to vote in India? (2 marks)**  
+38. **Explain why voting is an important responsibility of every adult citizen. (3 marks)**  
+39. **How do elections help in forming a government that looks after the needs of the people? (4 marks)**  
+40. **Describe the role of every adult citizen in making elections successful. (5 marks)**  
+
+## Section 9: Public and Private Property
+
+41. **Define public property. (1 mark)**  
+42. **Give two examples of public property. (2 marks)**  
+43. **What is private property? (1 mark)**  
+44. **List two differences between public and private property. (3 marks)**  
+45. **Explain how the taxes collected by the government are used with reference to public property. (4 marks)**  
+
+## Section 10: Caring for Public and Private Property
+
+46. **What are some rules for using public property responsibly? (1 mark)**  
+47. **Why is it important not to write on the walls of monuments? (2 marks)**  
+48. **How should one act when using public transport? (3 marks)**  
+49. **What should you do when visiting schools and hospitals in terms of caring for property? (4 marks)**  
+50. **Discuss the responsibilities that citizens have in maintaining both public and private property. (5 marks)**  
+
+## Section 11: Impact on Society
+
+51. **How does each citizen’s actions contribute to the welfare of society? (2 marks)**  
+52. **What can happen if we do not take care of public places like parks and roads? (3 marks)**  
+53. **Explain how good habits at home and outside help prevent the spread of diseases. (4 marks)**  
+54. **Describe the mutual relationship between citizens and the government in terms of maintaining society. (5 marks)**  
