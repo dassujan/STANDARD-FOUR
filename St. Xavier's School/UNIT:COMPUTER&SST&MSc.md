@@ -79,6 +79,12 @@ Every small responsible act, like throwing trash in a dustbin or respecting publ
 **Remember:**  
 Taking care of public and private property means you are not only respecting the place where you live but also helping everyone around you enjoy safe, well-maintained spaces.
 
+## Section 7: Elections and Voting
+
+- Elections are a process where citizens choose their leaders.
+- Every citizen aged 18 years and above has the right and responsibility to vote.
+- Voting is important because it helps choose leaders who work for the welfare of the country.
+
 # Social Studies: A Good Citizen (unit) Practice Questions
 
 ## Section 1: Civics and Its Importance
@@ -495,5 +501,11 @@ These devices help store data for a longer time and transfer data between comput
 53. **Explain how good habits at home and outside help prevent the spread of diseases. (4 marks)**  
 54. **Describe the mutual relationship between citizens and the government in terms of maintaining society. (5 marks)**  
 
+
+# Moral Science: Laughter Is the Best Medicine (Unit) 
+
+
+
 # Moral Science: Laughter Is the Best Medicine (Unit) Practice Questions
+
 
