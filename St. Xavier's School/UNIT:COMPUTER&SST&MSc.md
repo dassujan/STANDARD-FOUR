@@ -1,3 +1,248 @@
+# Social Studies: A Good Citizen (unit)
+
+
+
+
+# Social Studies: A Good Citizen (unit) Practice Questions
+
+## Section 1: Civics and Its Importance
+
+1. **Define civics. (1 mark)**  
+2. **What are the responsibilities of a government as explained in civics? (2 marks)**  
+3. **What are the rights and duties of the people as taught by civics? (2 marks)**  
+4. **How does studying civics help us understand our role in society? (3 marks)**  
+5. **Explain the importance of studying civics. (4 marks)**  
+
+## Section 2: Understanding Citizenship
+
+6. **What is a citizen? (1 mark)**  
+7. **Explain the term "citizenship by birth." (2 marks)**  
+8. **Can a citizen live in a country other than the one in which they were born? (2 marks)**  
+9. **Describe what a person must do if they wish to change their citizenship. (3 marks)**  
+10. **Why is it important to understand the concept of a citizen? (4 marks)**  
+
+## Section 3: Civic Sense
+
+11. **What is civic sense? (1 mark)**  
+12. **Break down the meaning of the word “civic sense” into its two components. (3 marks)**  
+13. **How does having civic sense benefit our community? (3 marks)**  
+14. **Provide two examples of how to show civic sense in daily life. (4 marks)**  
+15. **Why is it important to maintain civic sense in a town or city? (5 marks)**  
+
+## Section 4: Being a Good Neighbour
+
+16. **Define a good neighbour. (1 mark)**  
+17. **List two qualities of a good neighbour. (2 marks)**  
+18. **How do good neighbours help each other in times of need? (3 marks)**  
+19. **Why is cooperation among neighbours important for building a community? (4 marks)**  
+20. **Explain how being a good neighbour can contribute to being a good citizen. (5 marks)**  
+
+## Section 5: Being a Good Citizen
+
+21. **What are the qualities of a good citizen? (1 mark)**  
+22. **How does respecting national symbols reflect being a good citizen? (2 marks)**  
+23. **Why is it important for citizens to obey the rules? (2 marks)**  
+24. **How does voting contribute to being a good citizen? (3 marks)**  
+25. **Describe three responsibilities of a good citizen. (4 marks)**  
+
+## Section 6: Responsibility, Rules, and Duties
+
+26. **What does the term “responsibility” mean? (1 mark)**  
+27. **Why should we follow rules in our community? (2 marks)**  
+28. **How can paying taxes on time benefit society? (3 marks)**  
+29. **Explain the importance of protecting the environment as a citizen. (4 marks)**  
+30. **Provide a complete explanation of why citizens must respect public property. (5 marks)**  
+
+## Section 7: Everyday Actions of a Good Citizen
+
+31. **What should you do with rubbish to be responsible? (1 mark)**  
+32. **Why should rubbish be thrown into a dustbin? (2 marks)**  
+33. **What is the proper way to write on paper according to the lesson? (2 marks)**  
+34. **Explain how simple actions like proper disposal of garbage can help the government in managing cities. (3 marks)**  
+35. **Discuss the significance of wearing a seat belt while going in a car. (4 marks)**  
+
+## Section 8: Participation in Elections
+
+36. **What is the process of choosing leaders through voting called? (1 mark)**  
+37. **Who has the right to vote in India? (2 marks)**  
+38. **Explain why voting is an important responsibility of every adult citizen. (3 marks)**  
+39. **How do elections help in forming a government that looks after the needs of the people? (4 marks)**  
+40. **Describe the role of every adult citizen in making elections successful. (5 marks)**  
+
+## Section 9: Public and Private Property
+
+41. **Define public property. (1 mark)**  
+42. **Give two examples of public property. (2 marks)**  
+43. **What is private property? (1 mark)**  
+44. **List two differences between public and private property. (3 marks)**  
+45. **Explain how the taxes collected by the government are used with reference to public property. (4 marks)**  
+
+## Section 10: Caring for Public and Private Property
+
+46. **What are some rules for using public property responsibly? (1 mark)**  
+47. **Why is it important not to write on the walls of monuments? (2 marks)**  
+48. **How should one act when using public transport? (3 marks)**  
+49. **What should you do when visiting schools and hospitals in terms of caring for property? (4 marks)**  
+50. **Discuss the responsibilities that citizens have in maintaining both public and private property. (5 marks)**  
+
+## Section 11: Impact on Society
+
+51. **How does each citizen’s actions contribute to the welfare of society? (2 marks)**  
+52. **What can happen if we do not take care of public places like parks and roads? (3 marks)**  
+53. **Explain how good habits at home and outside help prevent the spread of diseases. (4 marks)**  
+54. **Describe the mutual relationship between citizens and the government in terms of maintaining society. (5 marks)**  
+
+# Computer: Knowing Your Computer (unit)
+
+## 1. What Is a Computer?
+
+A computer is an electronic machine that can take data (information) and process it to make new information. It works in four steps:  
+- **Input:** You give the computer data or instructions.  
+- **Process:** The computer works on the data in its brain (CPU).  
+- **Output:** The computer shows you the result, for example on a screen or by printing.  
+- **Storage:** The computer saves data so you can use it later.
+
+## 2. Input Devices
+
+These are the devices you use to enter data or instructions into the computer.
+
+### **a. Keyboard**
+
+- **What It Is:** A keyboard is the most frequently used input device.  
+- **How It Works:** It has a grid of buttons called keys. When you press a key, you enter letters, numbers, or symbols into the computer.  
+- **Fact:** A standard keyboard has 104 keys.
+
+### **b. Mouse**
+
+- **What It Is:** A mouse is a pointing device that helps you control the computer.  
+- **How It Works:** You move it on a flat surface, click its buttons to select objects or draw, and even drag things from one place to another.  
+- **Note:** There are two-button and three-button mice.  
+- **History:** Douglas Engelbart invented the mouse in 1963.
+
+### **c. Light Pen**
+
+- **What It Is:** A light pen is like a pen that works on the computer screen.  
+- **How It Works:** You can use it to draw pictures directly on the computer screen.  
+- **Example:** It can be used by cricket match commentators to show what they want on the screen.
+
+### **d. Barcode Reader**
+
+- **What It Is:** A barcode reader scans barcodes (black and white lines) on items like products in a store.  
+- **How It Works:** It uses a light, a lens, and a sensor to read the code and send the information to the computer.
+
+### **e. Microphone**
+
+- **What It Is:** A microphone is used to record sound or voices.  
+- **How It Works:** It captures sound and sends it to the computer, so you can record audio or use voice commands.
+
+### **f. Scanner**
+
+- **What It Is:** A scanner helps transfer printed pictures or texts into the computer.  
+- **How It Works:** It reads the image or text and changes it into digital form.
+  
+### **g. Webcam**
+
+- **What It Is:** A webcam is a camera for your computer.  
+- **How It Works:** It takes pictures or records videos, often used for video chats, so you can see the person you are talking to.
+
+### **h. Joystick**
+
+- **What It Is:** A joystick is an input device mainly used for playing games.  
+- **How It Works:** It has a stick (handle) you move around and sometimes a button on top.
+
+### **i. Special Devices (OCR, OMR, MICR)**
+
+- **OCR (Optical Character Recognition):**  
+  - **What It Does:** Reads printed text from images and changes it into typed text.  
+
+- **OMR (Optical Mark Recognition):**  
+  - **What It Does:** Reads marked answers, like on a test or survey.
+
+- **MICR (Magnetic Ink Character Recognition):**  
+  - **What It Does:** Reads special characters printed with magnetic ink (for example, on bank cheques) so they cannot be easily forged.
+
+## 3. Output Devices
+
+These are the devices that show or give you the results from the computer.
+
+### **a. Monitor**
+
+- **What It Is:** A monitor (also called a Visual Display Unit, VDU) is where you see the computer’s output.  
+- **How It Works:** It shows images made up of tiny dots called pixels, and the colors come from colored pixels.  
+- **Types:** Common types are LCD (Liquid Crystal Display) and LED (Light Emitting Diode).
+
+### **b. Printer**
+
+- **What It Is:** A printer produces a hard copy (paper copy) of the computer’s output.  
+- **How It Works:** It prints the information so you can read it on paper.
+
+### **c. Plotter**
+
+- **What It Is:** A plotter is a special printer for printing drawings and designs.  
+- **How It Works:** It creates detailed drawings and is used by engineers and architects to print blueprints or designs.
+
+### **d. Speakers**
+
+- **What It Is:** Speakers give you the computer’s audio output.  
+- **How It Works:** They play sounds, music, or audio from the computer.
+
+## 4. Processing Devices (The Computer’s Brain)
+
+The most important part is the CPU, which is like the brain of the computer. The CPU has three main parts:
+
+### **a. Control Unit (CU)**
+
+- **What It Does:** It acts like a traffic policeman, directing all the operations inside the computer.
+
+### **b. Arithmetic and Logic Unit (ALU)**
+
+- **What It Does:** It does calculations like addition, subtraction, multiplication, and division. It also makes decisions (like comparing numbers).
+
+### **c. Memory Unit (MU)**
+
+- **What It Does:** It stores the instructions and data that the computer needs to work quickly.
+
+## 5. Storage Devices
+
+Storage devices save data so you can use it later. There are two types of memory:
+
+### **a. Internal Memory (Primary Memory)**
+
+- **What It Is:** This is the memory inside the computer (RAM and ROM).  
+- **Note:** The data in internal memory is lost when the computer is turned off.
+
+### **b. External Memory (Secondary Memory)**
+
+- **What It Is:** This memory is outside the computer and keeps data even when the computer is off. It is also known as backup memory or auxiliary memory.
+
+### **c. External Storage Devices**
+
+These devices help store data for a longer time and transfer data between computers.
+
+- **Hard Disk:**  
+  - **What It Is:** The main storage inside the computer’s box that can hold lots of information.
+  
+- **CD (Compact Disk):**  
+  - **What It Is:** An optical disc that is round with a reflective metal coating.  
+  - **How Much It Holds:** It can store up to 700 MB of data.  
+  - **Fact:** The first CD was developed in 1982.
+  
+- **DVD (Digital Versatile Disc):**  
+  - **What It Is:** Similar to a CD but holds more data (from 4.1 GB to 17 GB).  
+  - **Usage:** Often used to record movies with high quality video and sound.
+  
+- **Blu-ray Disc:**  
+  - **What It Is:** An optical disc that stores up to 128 GB of data, used for high quality videos, games, and audio.
+  
+- **Pen Drive (Flash Drive):**  
+  - **What It Is:** A small, light device that holds data (up to 64 GB).  
+  - **Usage:** Used to copy and transfer data from one computer to another.
+
+### **Bits and Bytes**
+
+- **Bit:** A computer understands only two states: ON (1) and OFF (0). These are called binary digits or bits.  
+- **Byte:** 8 bits make 1 byte. This is how computers measure data.
+
 # Computer: Knowing Your Computer (unit) Practice Questions
 
 ## I. Input Devices
