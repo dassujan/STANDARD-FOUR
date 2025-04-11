@@ -1,7 +1,83 @@
 # Social Studies: A Good Citizen (unit)
 
+## Section 1: What Is Civics?
 
+**Explanation:**  
+- **Civics** is the study of how a government works. It explains not only the way our government runs the country, but also shows us our rights and duties as people.  
+- It teaches about:  
+  - How the government functions.  
+  - What is expected from the government.  
+  - What responsibilities every person (citizen) must follow.  
+  - Our rights as part of the country.
 
+**Remember:**  
+When you follow rules like throwing rubbish in a dustbin, wearing a seat belt, or writing on paper (and not on walls), you are showing responsibility. This is one small way of learning civics.
+
+## Section 2: Who Is a Citizen?
+
+**Explanation:**  
+- A **citizen** is someone who belongs to a country.  
+- When you are born in a country, you become a citizen by birth.  
+- Some people may also change their citizenship later by following the rules.  
+- In some countries like Australia, Denmark, and Finland, a person may have citizenship from more than one country.
+
+**Remember:**  
+Every person who is born in their country is automatically a citizen, but it’s important to follow the rules of the country to continue enjoying the rights and responsibilities.
+
+## Section 3: What Is Civic Sense?
+
+**Explanation:**  
+- **Civic Sense** combines two words:  
+  - **Civic** means relating to a city or town (this tells us about our responsibilities in the place where we live).  
+  - **Sense** means being aware of something.  
+- **Civic Sense** is all about being aware of your rights and duties as a citizen.
+- It encourages you to take good care of your surroundings, keep your city clean, and respect other people.
+
+**Remember:**  
+Having civic sense means always doing your part—like not littering and showing respect to fellow citizens and public property.
+
+## Section 4: Being a Good Neighbour
+
+**Explanation:**  
+- A good neighbour is someone who helps and cares about the people living close by.  
+- **Good Neighbours:**  
+  - Cooperate with each other.  
+  - Are polite and kind.  
+  - Help one another, especially in times of need.
+- Being a good neighbour is the first step towards being a good citizen.
+
+**Remember:**  
+When you are a good neighbour, you create a friendly community where everyone supports one another.
+
+## Section 5: Being a Good Citizen
+
+**Explanation:**  
+- A **good citizen** is a person who respects others and follows rules.  
+- **Key points:**  
+  - You obey rules and help keep the country safe and clean.  
+  - You respect national symbols, like the national flag and the national anthem.  
+  - You participate in the running of the country—this means voting in elections when you are 18 years or older.
+- By doing your part, like paying taxes and caring for public places, you show love and respect for your country.
+
+**Remember:**  
+Every small responsible act, like throwing trash in a dustbin or respecting public property, is important. Together they help run the country better.
+
+## Section 6: Public and Private Property
+
+**Explanation:**  
+- **Public Property:**  
+  - These are places and things built and maintained by the government for everyone.  
+  - Examples include schools, hospitals, roads, parks, museums, monuments, and public transport.  
+  - The money from taxes is used to take care of public property.
+- **Private Property:**  
+  - These are things owned by a person or family, like your house, vehicles, books, or furniture.
+- **Your Responsibility:**  
+  - Do not throw rubbish on roads, in parks, or on historical monuments.  
+  - Do not scribble on walls or damage things in public transport or schools.  
+  - Always use both public and private property wisely and with care.
+
+**Remember:**  
+Taking care of public and private property means you are not only respecting the place where you live but also helping everyone around you enjoy safe, well-maintained spaces.
 
 # Social Studies: A Good Citizen (unit) Practice Questions
 
